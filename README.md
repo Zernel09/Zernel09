@@ -12,8 +12,8 @@
 
 ● 🪐 NebulaMC - Minecraft HCF and BoxPvP Network.
 <p> ɪᴘ: nebulamc.cc <br>
-ᴅɪꜱᴄᴏʀᴅ: <a href="https://discord.nebulamc.cc"> </a> <br>
-ꜱᴛᴏʀᴇ: <a href="https://store.nebulamc.cc"> </a>
+ᴅɪꜱᴄᴏʀᴅ: <a href="https://discord.nebulamc.cc"> [htt](https://discord.nebulamc.cc)</a> <br>
+ꜱᴛᴏʀᴇ: <a href="https://store.nebulamc.cc"> https://store.nebulamc.cc</a>
 </p>
 
 
