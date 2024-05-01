@@ -6,16 +6,16 @@
 </div>
 
 # Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,python,mongodb,redis,maven,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,python,mongodb,redis,maven,idea)](https://skillicons.dev)
 
 # Information
 
-- 🪐 I’m currently learning Java
+- 🪐 I’m currently learning Java, Python and HTML
 
-- 🔔 How to reach me **zernel**
+- 🧭 How to reach me **zernel**
 
 <p align="center">
-    <a href="https://discord.com/users/1079614475717586945" target="_blank" rel="nofollow">
-        <img src="https://lanyard-profile-readme.vercel.app/api/1079614475717586945?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence" align="center">
+    <a href="https://discord.com/users/382345938779242499" target="_blank" rel="nofollow">
+        <img src="https://lanyard-profile-readme.vercel.app/api/382345938779242499?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence" align="center">
     </a>
 </p>
