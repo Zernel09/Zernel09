@@ -8,11 +8,19 @@
 # Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=java,html,python,mongodb,redis,maven,idea)](https://skillicons.dev)
 
+# Current projects:
+
+● 🪐 NebulaMC - Minecraft HCF and BoxPvP Network.
+ɪᴘ: nebulamc.cc
+ᴅɪꜱᴄᴏʀᴅ: <a href="https://discord.nebulamc.cc"> </a>
+ꜱᴛᴏʀᴇ: <a href="https://store.nebulamc.cc"> </a>
+
+
 # Information
 
-- 🪐 I’m currently learning Java, Python and HTML
+● 👷‍♂️ I’m currently learning Java, Python and HTML
 
-- 🧭 How to reach me **zernel**
+● 🧭 How to reach me **zernel**
 
 <p align="center">
   <a href="https://discord.com/users/382345938779242499" target="_blank" rel="nofollow">
