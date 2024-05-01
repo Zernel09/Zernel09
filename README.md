@@ -9,11 +9,11 @@
 [![My Skills](https://skillicons.dev/icons?i=java,html,python,mongodb,redis,maven,idea)](https://skillicons.dev)
 
 # Current projects:
-
-<p>● 🪐 NebulaMC - Minecraft HCF and BoxPvP Network. <br>
-ɪᴘ: nebulamc.cc <br>
-ᴅɪꜱᴄᴏʀᴅ: <a href="https://discord.nebulamc.cc"> https://discord.nebulamc.cc</a> <br>
-ꜱᴛᴏʀᴇ: <a href="https://store.nebulamc.cc"> https://store.nebulamc.cc</a>
+<p>
+● 🪐 NebulaMC - Minecraft HCF and BoxPvP Network. <br>
+| ɪᴘ: nebulamc.cc <br>
+| ᴅɪꜱᴄᴏʀᴅ: <a href="https://discord.nebulamc.cc"> https://discord.nebulamc.cc</a> <br>
+| ꜱᴛᴏʀᴇ: <a href="https://store.nebulamc.cc"> https://store.nebulamc.cc</a>
 </p>
 
 
