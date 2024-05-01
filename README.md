@@ -14,7 +14,7 @@
 
 - 🧭 How to reach me **zernel**
 
-<p align="center">
+<div align="center">
     [![Discord Presence](https://lanyard.cnrad.dev/api/382345938779242499)](https://discord.com/users/382345938779242499)
 </p>
 
