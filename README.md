@@ -16,6 +16,6 @@
 
 <p align="center">
     <a href="https://discord.com/users/382345938779242499" target="_blank" rel="nofollow">
-        <img src="https://lanyard-profile-readme.vercel.app/api/382345938779242499?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence" align="center">
+        <img src="https://lanyard.cnrad.dev/api/382345938779242499)&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence" align="center">
     </a>
 </p>
