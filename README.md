@@ -16,6 +16,9 @@
 | ꜱᴛᴏʀᴇ: <a href="https://store.nebulamc.cc"> https://store.nebulamc.cc</a>
 </p>
 
+<p>
+● 🪐 Nebula Development - Minecraft development studio. <br>
+</p>
 
 # Information
 
